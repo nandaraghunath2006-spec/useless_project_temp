@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+#  🎯
 
 
 ## Basic Details
@@ -10,9 +10,9 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+
+- Member 1: NANDA RAGHUNATH - JYOTHI ENGINEERING COLLEGE
+- Member 2: PRARTHANA RAMESH - JYOTHI ENGINEERING COLLEGE
 
 ### Project Description
 [2-3 lines about what your project does]
