@@ -2,11 +2,11 @@
 
 
 
-#  🎯
+#ANT-O-METER
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: MARS
 
 
 ### Team Members
@@ -15,70 +15,61 @@
 - Member 2: PRARTHANA RAMESH - JYOTHI ENGINEERING COLLEGE
 
 ### Project Description
-[2-3 lines about what your project does]
+ANT-O-METER is an automated immigration security, threat detection, and real-time census web application designed to regulate immigrant ant traffic traveling toward an exclusive ant tourist resort. Operating at a central border checkpoint, the system continuously tracks incoming ant counts, conducts automated identity and cargo security scans, detects hostile invaders attempting to infiltrate the tourist grounds, instantly kills identified invaders, and tallies the total number of ants that successfully reach the resort.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Ant vacation resorts are constantly under threat from unauthorized infiltrators, sugar smugglers, and aggressive ant invaders hiding within crowds of innocent tourist ants. Traditional ant border control methods fail because:
+
+Border guards cannot visually distinguish between a law-abiding tourist ant and a hostile invader in real time.
+
+Contraband sugar cubes carried by ants are not properly weighed or inspected at the gate.
+
+Security teams lack live tally counts for incoming visitors, approved tourists, and eliminated invaders.
+
+Hostile invaders sneak past border lines before security can execute immediate countermeasures.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+ANT-O-METER solves the ant immigration crisis by establishing a fully automated, border-patrol checkpoint directly outside the resort gates:
+
+Real-time Ant Headcounter: Continuously logs and displays real-time metrics, including the total number of incoming immigrant ants, active scans, successfully cleared tourists, and terminated sugar-smuggling invaders.
+
+Sugar Cube Threshold Protocol: Every arriving ant undergoes a strict cargo scan. If an ant carries $\le 2.5$ sugar cubes, it is marked as a VERIFIED TOURIST and guided to the beach pool to enjoy its vacation. However, if an ant attempts to cross with $> 2.5$ sugar cubes, it is instantly flagged as a HOSTILE INVADER, triggering screen-shaking alarms, an explosion animation, and immediate vaporizing execution
+
+Interactive Briefing & Sound Engine: Features a 7-chapter story walkthrough to train border officers on scanner mechanics and invader threat levels, accompanied by a procedural background jazz track synthesized live through the browser's audio engine.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- JAVASCRIPT
+- AI TOOLS
+- ANTIGRAVITY
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+No installation required simply download or extract the project files
 
 # Run
-[commands]
+Double click "index.html"
 
 ### Project Documentation
 For Software:
+<img width="1600" height="894" alt="image" src="https://github.com/user-attachments/assets/3f491d37-40cc-42d5-b0cf-2f431ae43dc6" />
+Figure 1: The 7-chapter interactive story onboarding officers before the border simulation begins.
+<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/007ceb0e-157c-40c6-8646-4d9b21ce5cd8" />
+Figure 2: Border scanner intercepting an immigrant ant and weighing its sugar cube payload.
+<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/f8e7b515-db62-4628-8d1d-4b506f255d4d" />
+Figure 3: Screen flash and explosion animation triggered upon detecting a hostile ant with over 2.0 sugar cubes.
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/118a0f65-4aa8-4b34-83b8-57d861738f20" />
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
