@@ -73,16 +73,15 @@ Figure 3: Screen flash and explosion animation triggered upon detecting a hostil
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1juaqY9MUXtgZW4pCr_D5KeV8CLRyhXr3/view?usp=drive_link
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- NANDA RAGHUNATH: WEB APP DEVELOPMENT
+- PRARTHANA RAMESH: WEB APP DEVELOPMENT
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
